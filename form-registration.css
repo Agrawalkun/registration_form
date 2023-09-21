@@ -156,4 +156,67 @@ form {
   .gender label {
     top: 2rem;
   }
+  .bg-container {
+    height: 103.8rem;
+    margin: 11rem auto;
+  }
+  form {
+    margin: 4.2rem;
+    margin-top: 6.6rem;
+  }
+  .div {
+    margin: 3.2rem 3.5rem 0.9rem 14.9rem;
+    font-size: 2.5rem;
+  }
+  .password input {
+    left: -2.5rem;
+  }
+  .password label {
+    left: -11.1rem;
+  }
+  .phone-no input {
+    left: 4.7rem;
+    top: -3.4rem;
+  }
+  .phone-no label {
+    left: -20.5rem;
+  }
+  .gender label {
+    top: -2rem;
+  }
+  .gender-2 {
+    left: 9.8rem;
+    top: -11rem;
+  }
+  .language label {
+    left: -13.7rem;
+    top: -8.1rem;
+  }
+  .language select {
+    left: -5.1rem;
+    top: -8.4rem;
+  }
+  .zip-code label {
+    left: -11.5rem;
+    top: -7.4rem;
+  }
+  .zip-code input {
+    top: -6.5rem;
+  }
+  .about label {
+    top: -11.8rem;
+  }
+  .about textarea {
+    height: 11rem;
+    top: -3.6rem;
+  }
+  #input {
+    font-size: 1.8rem;
+  }
+  .button {
+    width: 52.1rem;
+    left: -9.5rem;
+    top: -5.1rem;
+    font-size: 2.5rem;
+  }
 }
